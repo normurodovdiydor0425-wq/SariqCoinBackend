@@ -1,0 +1,14 @@
+{
+  "name": "sariq-coin-demo",
+  "version": "5.4.0",
+  "private": true,
+  "description": "Sariq Coin v5.4 — exact percentage coupons and single-use voucher enforcement; cart, video, rewards and admin demo",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test test/*.test.mjs"
+  }
+}
